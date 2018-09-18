@@ -1,0 +1,12 @@
+html,body{
+    height: 100%;
+}
+* {
+	-webkit-border-radius: 0px !important;
+	-moz-border-radius: 0px !important;
+	border-radius: 0px !important;
+}
+
+.card{
+	padding:0;
+}
